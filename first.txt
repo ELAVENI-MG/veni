@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi. I am the first.txt file.
+=======
+this is the first txt
+>>>>>>> c33f1b2 (First commit)
